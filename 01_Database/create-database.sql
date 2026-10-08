@@ -1,8 +1,16 @@
-# Database
+-- =====================================================
+-- CREATE DATABASE
+-- =====================================================
 
-This section covers SQL Server database-level operations.
+-- WHAT IS IT?
+-- CREATE DATABASE is used to create a new database
+-- in SQL Server.
 
-Topics:
-- CREATE DATABASE
-- RESTORE DATABASE
-- DROP DATABASE
+-- =====================================================
+-- Example 1: Create a simple database
+-- =====================================================
+
+-- WHEN TO USE:
+-- Use this when you want to create a new database.
+
+CREATE DATABASE EmployeeDB;
